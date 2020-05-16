@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1589593641 source:c:\users\grabi\desktop\trabajo practico 2\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"Interface.h"
+	"inputs.h"
+	"sectors.h"
+
+1589595318 source:c:\users\grabi\desktop\trabajo practico 2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Interface.h"
+	"ArrayEmployees.h"
+	"inputs.h"
+	"sectors.h"
+
+1589597282 c:\users\grabi\desktop\trabajo practico 2\tp2\arrayemployees.h
+	"inputs.h"
+	"sectors.h"
+
+1589592186 source:c:\users\grabi\desktop\trabajo practico 2\tp2\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"Interface.h"
+
+1589593160 c:\users\grabi\desktop\trabajo practico 2\tp2\interface.h
+
+1589592186 source:c:\users\grabi\desktop\trabajo practico 2\tp2\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+
+1589593161 c:\users\grabi\desktop\trabajo practico 2\tp2\inputs.h
+
+1589595077 c:\users\grabi\desktop\trabajo practico 2\tp2\sectors.h
+
+1589593642 source:c:\users\grabi\desktop\trabajo practico 2\tp2\sectors.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Interface.h"
+	"ArrayEmployees.h"
+	"inputs.h"
+	"sectors.h"
+
